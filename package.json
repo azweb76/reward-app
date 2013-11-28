@@ -1,0 +1,25 @@
+{
+  "name": "reward-app",
+  "description": "",
+  "keywords": [
+  ],
+  "version": "0.0.1",
+  "main": "index",
+  "bin": {
+  },
+  "author": "Dan Clayton<dan@azwebmaster.com>",
+  "engines": [
+    "node >=0.2.6"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+	  "express": "3.4.4",
+	  "dot": "1.0.2",
+	  "express-dot": "0.1.0",
+	  "mysql": "2.0.0-alpha9"
+  },
+  "devDependencies": {
+  }
+}
